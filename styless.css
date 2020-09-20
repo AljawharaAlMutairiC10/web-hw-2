@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color: #e8ded2;
+}
+
+h1{
+        border-radius: 50%;
+        width: 700px;
+        height: 130px;
+        background-color: white;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 15px 15px 5px rgba(255, 255, 255, 0.658);
+    
+      margin-top: 0.5cm;
+
+}
+
+.image{
+height: 400px;
+width: 300px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 2cm;
+}
+.image:hover{
+    box-shadow: 15px 15px 5px #a3d2cad7; 
+
+}
+p{
+background-color: #5eaaa8;
+width: 1100px;
+height: 300px;
+margin-left: auto;
+margin-right: auto;
+font-size: 25px;
+box-shadow: 15px 15px 5px  #5eaaa8a9;
+
+}
+
+h2{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    background-color: #a3d2ca;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2cm;
+
+}
